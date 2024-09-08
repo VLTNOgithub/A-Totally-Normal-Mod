@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "a-totally-normal-mod:item/stick_sword"
+  }
+}
