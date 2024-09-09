@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " / ",
+    " / ",
+    " / "
+  ],
+  "category": "combat",
+  "key": {
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "a-totally-normal-mod:stick_sword",
+    "count": 1
+  }
+}
